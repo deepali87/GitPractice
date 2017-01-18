@@ -1,6 +1,6 @@
 #Git Cheatsheet
 **Name:** Deepali Advani
-**Date:** January 17, 2017
+**Date:** January 18, 2017
 git confif --global user.name ""
 git config --global user.email 
 git config --list
