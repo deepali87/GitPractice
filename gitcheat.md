@@ -11,3 +11,4 @@ git log </br>
 git add . </br>
 git commit -m <b>"Add the comments"</b></br>
 git push origin master </br>
+git reset (use this to take back changes)
